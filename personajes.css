@@ -1,0 +1,18 @@
+#hijoUno{
+    background-color: rgb(48, 43, 43);
+    height: 700px;
+}
+.container-md{
+    height: 100%;
+    width: 100%;
+}
+
+div{
+    border: 2px solid;
+}
+
+button{
+    font-family: fantasy;
+    color: red;
+
+}
